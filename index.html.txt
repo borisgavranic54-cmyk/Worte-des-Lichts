@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Worte des Lichts – Weihnachtsedition | 20 Bibelverse für Herz und Seele</title>
+  <meta name="description" content="Worte des Lichts – Weihnachtsedition: 20 ausgewählte Bibelverse für Herz und Seele. Jetzt als Taschenbuch (12,99 €) und E‑Book (9,99 €) bei Amazon erhältlich. Das perfekte Weihnachtsgeschenk.">
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #160b09;
+      color: #f9f3e8;
+      line-height: 1.6;
+    }
+
+    a { 
+      color: #ffd46a; 
+      text-decoration: none; 
+    }
+
+    a:hover { 
+      text-decoration: underline; 
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 40px 20px 30px;
+      background: radial-gradient(circle at top, #b32621 0, #3d1010 55%, #160b09 100%);
+    }
+
+    .hero img {
+      max-width: 260px;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.6);
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 2.3rem;
+      margin: 10px 0 5px;
+    }
+
+    h2 {
+      font-size: 1.7rem;
+      margin-top: 30px;
+      margin-bottom: 10px;
+      color: #ffe09a;
+    }
+
+    h3 {
+      font-size: 1.3rem;
+      margin-top: 20px;
+      color: #ffe9bf;
+    }
+
+    .subtitle {
+      font-size: 1.1rem;
+      max-width: 640px;
+      margin: 0 auto 15px;
+    }
+
+    .formats {
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: rgba(255, 212, 106, 0.15);
+      border: 1px solid #ffd46a;
+      color: #ffd46a;
+      font-size: 0.85rem;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .btn-primary,
+    .btn-secondary,
+    .btn-ghost {
+      display: inline-block;
+      padding: 12px 26px;
+      border-radius: 999px;
+      font-weight: 700;
+      margin: 10px 8px;
+      transition: filter 0.2s, background 0.2s, color 0.2s, border-color 0.2s;
+      white-space: nowrap;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #ffb347, #ff6b35);
+      color: #2b120a;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.5);
+      border: none;
+    }
+
+    .btn-primary:hover {
+      filter: brightness(1.08);
+      text-decoration: none;
+    }
+
+    .btn-secondary {
+      background: transparent;
+      border: 2px solid #ffd46a;
+      color: #ffd46a;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255, 212, 106, 0.1);
+      text-decoration: none;
+    }
+
+    .btn-ghost {
+      background: transparent;
+      border: 2px solid rgba(255, 212, 106, 0.4);
+      color: #ffd46a;
+    }
+
+    .btn-ghost:hover {
+      border-color: #ffd46a;
+      background: rgba(255, 212, 106, 0.08);
+      text-decoration: none;
+    }
+
+    .hero-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .section {
+      padding: 30px 20px;
+      background: #251010;
+    }
+
+    .section:nth-of-type(even) {
+      background: #2f1514;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    blockquote {
+      margin: 15px 0;
+      padding-left: 15px;
+      border-left: 3px solid #ffd46a;
+      font-style: italic;
+      color: #ffe9bf;
+    }
+
+    .faq-item {
+      margin-bottom: 15px;
+    }
+
+    .footer-cta {
+      text-align: center;
+      padding: 35px 20px 50px;
+      background: #180a08;
+    }
+
+    .gift-grid {
+      display: grid;
+      gap: 18px;
+      margin: 20px 0;
+    }
+
+    .gift-point {
+      background: rgba(0, 0, 0, 0.15);
+      border-radius: 10px;
+      padding: 15px;
+    }
+
+    /* Responsive Layout */
+    @media (min-width: 768px) {
+      .hero-layout {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+      }
+      
+      .hero-text {
+        max-width: 480px;
+        text-align: left;
+      }
+      
+      .hero {
+        text-align: left;
+      }
+
+      .hero-buttons {
+        justify-content: flex-start;
+      }
+
+      .gift-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="hero">
+    <div class="container hero-layout">
+      <div>
+        <img src="https://i.imgur.com/CSZthCw.jpg" alt="Cover: Worte des Lichts – Weihnachtsedition">
+      </div>
+      <div class="hero-text">
+        <p class="badge">Weihnachtsgeschenk-Tipp</p>
+        <h1>Worte des Lichts – Weihnachtsedition</h1>
+        <p class="subtitle">20 Bibelverse für Herz und Seele – das liebevoll gestaltete Andachtsbuch, das du zu Weihnachten verschenken kannst.</p>
+        <p class="formats">
+          Jetzt als <strong>Taschenbuch (12,99&nbsp;€)</strong> und als <strong>E‑Book (9,99&nbsp;€)</strong> bei Amazon erhältlich.
+          Ideal als persönliches Geschenk oder zum Weitergeben an Freunde und Familie.
+        </p>
+        <div class="hero-buttons">
+          <a class="btn-primary" href="https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B0G393GJ5K" target="_blank" rel="noopener noreferrer">
+            Jetzt als Geschenk bei Amazon kaufen
+          </a>
+          <a class="btn-ghost" href="#geschenk-section">
+            Warum das Buch ein ideales Geschenk ist
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="container">
+        <h2>Für wen dieses Buch das perfekte Geschenk ist</h2>
+        <p>„Worte des Lichts – Weihnachtsedition" ist das ideale Geschenk für Menschen, die in der Advents- und Weihnachtszeit mehr Tiefgang und echte Ermutigung suchen.</p>
+        <ul>
+          <li>Für Freunde und Familie, die sich nach <strong>Trost, Hoffnung und innerem Frieden</strong> sehnen</li>
+          <li>Für Christen, die ihren Glauben in der Adventszeit neu vertiefen möchten</li>
+          <li>Für Hauskreise, Gebetsgruppen oder Gemeindemitglieder als <strong>persönliche Aufmerksamkeit</strong></li>
+          <li>Für Menschen, denen du einfach sagen möchtest: <strong>„Du bist nicht allein – Gott ist da."</strong></li>
+        </ul>
+        <a class="btn-secondary" href="https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B0G393GJ5K" target="_blank" rel="noopener noreferrer">
+          Jetzt Exemplare zum Verschenken sichern
+        </a>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2>Was du verschenkst, wenn du dieses Buch schenkst</h2>
+        <p>In diesem Buch findest du 20 sorgfältig ausgewählte Bibelverse, die durch die Advents- und Weihnachtszeit begleiten. Mit jedem Vers schenkst du einen Moment der Ruhe, der Ermutigung und des Lichts.</p>
+        <ul>
+          <li><strong>Ermutigung</strong> in dunklen oder herausfordernden Zeiten</li>
+          <li><strong>Dankbarkeit und Freude</strong> über Gottes Nähe</li>
+          <li><strong>Frieden, Hoffnung und Liebe</strong> – verpackt in kurzen, gut lesbaren Impulsen</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2>Blick ins Buch</h2>
+        <p>Damit du weißt, was du verschenkst, hier zwei kurze Einblicke. Jeder Bibelvers lädt dazu ein, einen Moment innezuhalten und Gottes Licht im Alltag neu zu entdecken.</p>
+
+        <h3>Beispiel 1 – Hoffnung im Dunkeln</h3>
+        <blockquote>
+          „Das Volk, das im Finstern wandelt, sieht ein großes Licht; und über denen, die da wohnen im finsteren Lande, scheint es hell." (Jesaja 9,1)
+        </blockquote>
+        <p>Gerade wenn die Tage kürzer werden und Sorgen schwer auf dem Herzen liegen, erinnert uns dieser Vers: Gott lässt sein Licht genau dort aufleuchten, wo wir es am wenigsten erwarten. Sein Licht vertreibt nicht nur äußere, sondern vor allem innere Dunkelheit. Genau diese Hoffnung schenkst du mit diesem Buch weiter.</p>
+
+        <h3>Beispiel 2 – Frieden für unruhige Herzen</h3>
+        <blockquote>
+          „Und der Friede Gottes, der höher ist als alle Vernunft, wird eure Herzen und Sinne in Christus Jesus bewahren." (Philipper 4,7)
+        </blockquote>
+        <p>In der Adventszeit sind viele Herzen unruhig: Termine, Erwartungen, Druck. Gottes Friede ist anders – er hängt nicht von Umständen ab. Dieser Vers lädt ein, die eigene Unruhe bewusst in Gottes Hände zu legen und sich von seinem Frieden bewahren zu lassen. Ein Geschenk, das weit über Heiligabend hinaus wirkt.</p>
+
+        <a class="btn-primary" href="https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B0G393GJ5K" target="_blank" rel="noopener noreferrer">
+          Jetzt „Worte des Lichts" verschenken
+        </a>
+      </div>
+    </section>
+
+    <section class="section" id="geschenk-section">
+      <div class="container">
+        <h2>Warum „Worte des Lichts" ein ideales Weihnachtsgeschenk ist</h2>
+        <div class="gift-grid">
+          <div class="gift-point">
+            <h3>1. Persönlicher als ein Standard-Geschenk</h3>
+            <p>Statt Schokolade oder Gutschein verschenkst du Worte, die direkt ins Herz sprechen – mit echtem geistlichem Tiefgang.</p>
+          </div>
+          <div class="gift-point">
+            <h3>2. Hochwertiges, weihnachtliches Design</h3>
+            <p>Das liebevoll gestaltete Cover macht das Taschenbuch zu einem Blickfang unter dem Weihnachtsbaum.</p>
+          </div>
+          <div class="gift-point">
+            <h3>3. Für Einsteiger und „Profis" im Glauben</h3>
+            <p>Die Verse sind leicht verständlich und eignen sich sowohl für Menschen, die schon lange glauben, als auch für solche, die neu oder unsicher sind.</p>
+          </div>
+          <div class="gift-point">
+            <h3>4. Einfach zu bestellen &amp; weiterzugeben</h3>
+            <p>Über Amazon schnell geliefert – ideal, wenn du noch ein sinnvolles Geschenk für Weihnachten suchst.</p>
+          </div>
+        </div>
+        <a class="btn-secondary" href="https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B0G393GJ5K" target="_blank" rel="noopener noreferrer">
+          Jetzt bestellen und zu Weihnachten verschenken
+        </a>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2>Formate &amp; Preise</h2>
+        <h3>Taschenbuch – 12,99&nbsp;€</h3>
+        <ul>
+          <li>Handliches Format, ideal zum Verschenken und Mitnehmen</li>
+          <li>Hochwertiges, weihnachtliches Coverdesign – direkt geschenkfertig</li>
+          <li>Perfekt für Freunde, Familie, Hauskreise oder Gemeindemitglieder</li>
+        </ul>
+
+        <h3>E‑Book – 9,99&nbsp;€</h3>
+        <ul>
+          <li>Sofort nach dem Kauf auf deinem E‑Reader oder Tablet verfügbar</li>
+          <li>Ideal als spontanes, digitales Geschenk</li>
+          <li>Perfekt für Menschen, die gerne unterwegs lesen</li>
+        </ul>
+
+        <div class="hero-buttons">
+          <a class="btn-primary" href="https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B0G393GJ5K" target="_blank" rel="noopener noreferrer">
+            Jetzt Taschenbuch bestellen
+          </a>
+          <a class="btn-ghost" href="https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B0G393GJ5K" target="_blank" rel="noopener noreferrer">
+            E‑Book-Version ansehen
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2>Häufige Fragen</h2>
+
+        <div class="faq-item">
+          <h3>Ist das Buch auch als Geschenk für Menschen geeignet, die wenig Bibelkenntnis haben?</h3>
+          <p>Ja. Die ausgewählten Verse sind leicht verständlich und so präsentiert, dass sie auch für Einsteiger zugänglich sind. Du verschenkst Ermutigung, ohne zu überfordern.</p>
+        </div>
+
+        <div class="faq-item">
+          <h3>Kann ich mehrere Exemplare auf einmal bestellen?</h3>
+          <p>Über Amazon kannst du problemlos mehrere Taschenbücher auf einmal bestellen – ideal, wenn du gleich mehrere Menschen in deinem Umfeld beschenken möchtest.</p>
+        </div>
+
+        <div class="faq-item">
+          <h3>Kommt das Buch rechtzeitig zu Weihnachten an?</h3>
+          <p>In der Regel liefert Amazon sehr schnell. Bestelle am besten frühzeitig, um sicherzugehen, dass dein Geschenk rechtzeitig unter dem Weihnachtsbaum liegt.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer-cta">
+    <div class="container">
+      <h2>Verschenke dieses Jahr Worte, die bleiben</h2>
+      <p>„Worte des Lichts – Weihnachtsedition" ist mehr als ein schönes Buch – es ist ein Geschenk, das Hoffnung, Trost und Gottes Nähe vermittelt.</p>
+      <a class="btn-primary" href="https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B0G393GJ5K" target="_blank" rel="noopener noreferrer">
+        Jetzt bei Amazon als Geschenk kaufen
+      </a>
+    </div>
+  </footer>
+
+</body>
+</html>
